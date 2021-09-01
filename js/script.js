@@ -96,7 +96,7 @@ console.log(4 + +"5");
 console.log(typeof(4 + +"5"));
 
 let incr = 10,
-    decr = 10;
+    decr = 9;
 
 // incr++; //постфикс
 // decr--;
